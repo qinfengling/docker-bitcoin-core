@@ -1,6 +1,6 @@
 FROM debian:stable-slim
 
-MAINTAINER Rui Marinho <ruipmarinho@gmail.com> (@ruimarinho)
+MAINTAINER qinfengling <fengling.qin@gmail.com>
 
 RUN useradd -r bitcoin
 
